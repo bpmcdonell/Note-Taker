@@ -12,7 +12,7 @@ This project is a deployed web application that is a simple note taker. You can 
 * [Questions](#questions)
 
 ## Installation
-N/A
+N/A : Deployed website: https://bpm-note-taker.herokuapp.com/
 
 ## Usage
 You can add a title and a description of your note by typing them into the respective fields. Then you can save your note by clicking the save button in the top right.
